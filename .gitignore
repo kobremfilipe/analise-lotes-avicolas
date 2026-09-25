@@ -1,0 +1,19 @@
+# Bases confidenciais
+*.xlsx
+*.xls
+*.csv
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
